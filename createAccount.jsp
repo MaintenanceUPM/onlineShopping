@@ -51,7 +51,7 @@
 %> 
 
 <!doctype html>
-<html>
+<html lang="en" xml:lang="en">
 
 <head>
     <meta charset="utf-8">
